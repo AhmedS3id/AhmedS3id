@@ -89,15 +89,17 @@ public class AhmedSaid : BackendDeveloper
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C37&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
 <br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&layout=compact&langs_count=8" />
