@@ -96,13 +96,13 @@ public class AhmedSaid : BackendDeveloper
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 🔥 GitHub Streak
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-samy289&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true" height="170"/>
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
 <br/><br/>
 
