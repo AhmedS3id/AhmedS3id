@@ -102,17 +102,11 @@ public class AhmedSaid : BackendDeveloper
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
 <br/><br/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&layout=compact&langs_count=8" />
-
-</div>
-```
-
-
-
 
 
 ## 🏆 GitHub Trophies
