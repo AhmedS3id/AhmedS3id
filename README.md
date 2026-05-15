@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Said&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20.NET%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=200&section=header&text=Ahmed%20Said&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20.NET%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Backend+.NET+Developer+%F0%9F%9A%80;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;REST+API+%26+JWT+Specialist+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Backend+.NET+Developer+%F0%9F%9A%80;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;REST+API+%26+JWT+Specialist+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmeds3id711@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedS3id)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201028527109)
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedS3id&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/AhmedS3id)
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedS3id&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/AhmedS3id)
 
 </div>
 
@@ -72,9 +72,9 @@ public class AhmedSaid : BackendDeveloper
 
 ### 🏗️ Architecture & Principles
 
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C63FF?style=for-the-badge&logo=blueprint&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-6C63FF?style=for-the-badge&logo=buffer&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-6C63FF?style=for-the-badge&logo=buffer&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00D9FF?style=for-the-badge&logo=blueprint&logoColor=black)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-00D9FF?style=for-the-badge&logo=buffer&logoColor=black)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-00D9FF?style=for-the-badge&logo=buffer&logoColor=black)
 
 ### 🛠️ Tools & DevOps
 
@@ -100,13 +100,13 @@ public class AhmedSaid : BackendDeveloper
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&layout=compact&langs_count=8" />
 
 </div>
 
@@ -126,7 +126,7 @@ public class AhmedSaid : BackendDeveloper
 
 <div align="center">
 
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -154,18 +154,10 @@ public class AhmedSaid : BackendDeveloper
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/>
-
 > *"Clean code always looks like it was written by someone who cares."*
 
 <br/>
 
-![Snake animation](https://github.com/AhmedS3id/AhmedS3id/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer" width="100%"/>
 
 </div>
