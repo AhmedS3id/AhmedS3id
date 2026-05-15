@@ -160,11 +160,6 @@ public class AhmedSaid : BackendDeveloper
 
 > *"Clean code always looks like it was written by someone who cares."*
 
-<br/>
-
-![Snake animation](https://github.com/AhmedS3id/AhmedS3id/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
