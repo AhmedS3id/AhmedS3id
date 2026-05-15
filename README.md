@@ -104,11 +104,6 @@ public class AhmedSaid : BackendDeveloper
 </p>
 
 
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&layout=compact&langs_count=8" />
-
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
