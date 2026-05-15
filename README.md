@@ -96,7 +96,19 @@ public class AhmedSaid : BackendDeveloper
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&ring_color=8B5CF6" /> <img width="49%" src="https://streak-stats.demolab.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" /> <br/><br/> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&layout=compact&langs_count=8" /> </div> <br/> <div align="center"> [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph) </div> <br/> <div align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=AhmedS3id&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&layout=compact&langs_count=8" />
+
+</div>
 
 
 ## 🏆 GitHub Trophies
