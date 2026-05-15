@@ -1,56 +1,21 @@
-```md id="j2mk9x"
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17&height=200&section=header&text=Ahmed%20Said&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20.NET%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Backend+.NET+Developer+%F0%9F%9A%80;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;REST+API+%26+JWT+Specialist+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-said-b006a0269)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmeds3id711@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedS3id)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201028527109)
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedS3id&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)](https://github.com/AhmedS3id)
-
-</div>
-
----
-
-### 🏗️ Architecture & Principles
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-38BDF8?style=for-the-badge)
-![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-38BDF8?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-38BDF8?style=for-the-badge)
-
----
-
-### 📦 Libraries & Packages
-
-![Serilog](https://img.shields.io/badge/Serilog-CC2927?style=for-the-badge)
-![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge)
-![MailKit](https://img.shields.io/badge/MailKit-EA4335?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
----
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&layout=compact&langs_count=8" />
-
----
-
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17&height=120&section=footer" width="100%"/>
-
-</div>
-```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=200&section=header&text=Ahmed%20Said&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20.NET%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=58&descSize=16" width="100%"/> <br/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Backend+.NET+Developer+%F0%9F%9A%80;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;REST+API+%26+JWT+Specialist+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%92%AA)](https://git.io/typing-svg) <br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-said-b006a0269) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmeds3id711@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedS3id) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201028527109) [![Profile Views](https://komarev.com/ghpvc/?username=AhmedS3id&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/AhmedS3id) </div> <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; About Me <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+csharp
+public class AhmedSaid : BackendDeveloper
+{
+    public string Name       => "Ahmed Said";
+    public string Username   => "AhmedS3id";
+    public string Role       => "Backend .NET Developer";
+    public string Location   => "Egypt 🇪🇬";
+    public string[] Focus    => [
+        "Clean Architecture",
+        "RESTful APIs",
+        "Scalable Systems"
+    ];
+    public string[] Learning => [
+        "Microservices",
+        "Docker & Kubernetes",
+        "System Design"
+    ];
+    public string Quote      => "Clean code is not written by chance.";
+}
+<br clear="right"/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Tech Stack <div align="center"> ### 💻 Languages & Frameworks ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ### 🗄️ Database & Query ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=csharp&logoColor=white) ### 🔐 Security & API ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ### 🏗️ Architecture & Principles ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00D9FF?style=for-the-badge&logo=blueprint&logoColor=black) ![SOLID](https://img.shields.io/badge/SOLID%20Principles-00D9FF?style=for-the-badge&logo=buffer&logoColor=black) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-00D9FF?style=for-the-badge&logo=buffer&logoColor=black) ### 🛠️ Tools & DevOps ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ### 📦 Libraries & Packages ![Serilog](https://img.shields.io/badge/Serilog-CC2927?style=for-the-badge&logo=files&logoColor=white) ![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge&logo=checkmarx&logoColor=white) ![MailKit](https://img.shields.io/badge/MailKit-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> ## 📊 GitHub Stats <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" /> <br/><br/> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&layout=compact&langs_count=8" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> ## 🏆 GitHub Trophies <div align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=AhmedS3id&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy) </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> ## 📈 Contribution Graph <div align="center"> [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph) </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Let's Connect <div align="center"> <a href="https://www.linkedin.com/in/ahmed-said-b006a0269"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="mailto:ahmeds3id711@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> &nbsp; <a href="https://github.com/AhmedS3id"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://wa.me/201028527109"> <img src="https://img.shields.io/badge/WhatsApp-%2B201028527109-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <br/><br/> > *"Clean code always looks like it was written by someone who cares."* <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer" width="100%"/> </div>
