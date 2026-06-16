@@ -100,7 +100,7 @@ public class AhmedSaid : BackendDeveloper
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -116,11 +116,9 @@ public class AhmedSaid : BackendDeveloper
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
