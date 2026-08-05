@@ -26,6 +26,8 @@
 
 ## `// about.cs`
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
 ```csharp
 public class AhmedSaid : BackendDeveloper
 {
@@ -46,6 +48,8 @@ public class AhmedSaid : BackendDeveloper
     public string Quote      => "Clean code is not written by chance.";
 }
 ```
+
+<br clear="right"/>
 
 <br/>
 
