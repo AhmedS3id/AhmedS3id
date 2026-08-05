@@ -13,71 +13,88 @@
 <a href="mailto:ahmeds3id711@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-3B82F6?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=1a1b26" /></a>
 <a href="https://wa.me/201028527109"><img src="https://img.shields.io/badge/WhatsApp-Message_me-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=1a1b26" /></a>
 
-<img src="https://img.shields.io/badge/📍-Egypt-1a1b26?style=for-the-badge&labelColor=1a1b26&color=24283b" />
+<img src="https://img.shields.io/badge/📍_Location-Egypt-7AA2F7?style=for-the-badge&labelColor=1a1b26" />
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; About Me
+## `// about.cs`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
-csharp
-public class AhmedSaid : BackendDeveloper
+```csharp
+public class BackendDeveloper
 {
-    public string Name       => "Ahmed Said";
-    public string Username   => "AhmedS3id";
-    public string Role       => "Backend .NET Developer";
-    public string Location   => "Egypt 🇪🇬";
-    public string[] Focus    => [
-        "Clean Architecture",
-        "RESTful APIs",
-        "Scalable Systems"
-    ];
-    public string[] Learning => [
-        "Microservices",
-        "Docker & Kubernetes",
-        "System Design"
-    ];
-    public string Quote      => "Clean code is not written by chance.";
+    private readonly string _name = "Ahmed Said";
+    private readonly string _role = "Backend .NET Developer";
+    private readonly string _location = "Egypt 🇪🇬";
+
+    public string Bio => """
+        I build the part of the application most users never think about —
+        the layer that decides whether things stay fast, correct, and secure
+        once real traffic hits them. My day-to-day is ASP.NET Core, C#, and
+        Entity Framework Core, with a strong bias toward Clean Architecture:
+        code that's still easy to extend six months from now, not just easy
+        to demo today.
+
+        I like APIs that are boring in the best way — predictable responses,
+        properly scoped JWT auth, and a data layer that doesn't fall over
+        the first time someone sends a weird request. Solving that kind of
+        real-world problem, and getting a little better at it every project,
+        is what keeps me interested in this work.
+        """;
+
+    public string[] BuildsWith => new[]
+    {
+        "ASP.NET Core", "C#", "Entity Framework Core",
+        "SQL Server", "REST APIs", "JWT Authentication", "Clean Architecture"
+    };
+
+    public string[] CurrentlyLearning => new[]
+    {
+        "Docker", "Microservices", "Azure", "System Design"
+    };
 }
+```
 
-
-<br clear="right"/>
 <br/>
 
 ## `// tech_stack.cs`
 
 <div align="center">
+<sub>Each row below is one namespace — its color is its identity, not decoration.</sub>
+</div>
 
-**Core**
+<br/>
 
-<img src="https://img.shields.io/badge/C%23-3B82F6?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/.NET-3B82F6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-3B82F6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-3B82F6?style=for-the-badge&logo=nuget&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/LINQ-3B82F6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1b26" />
+<div align="center">
 
-**Data & APIs**
+**🔷 Core — `namespace Core`**
 
-<img src="https://img.shields.io/badge/SQL_Server-7AA2F7?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/REST_APIs-7AA2F7?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/JWT-7AA2F7?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/Swagger-7AA2F7?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/Postman-7AA2F7?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/C%23-7AA2F7?style=for-the-badge&logo=csharp&logoColor=c0caf5&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/.NET-7AA2F7?style=for-the-badge&logo=dotnet&logoColor=c0caf5&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-7AA2F7?style=for-the-badge&logo=dotnet&logoColor=c0caf5&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-7AA2F7?style=for-the-badge&logo=nuget&logoColor=c0caf5&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/LINQ-7AA2F7?style=for-the-badge&logo=dotnet&logoColor=c0caf5&labelColor=1a1b26" />
 
-**Architecture & Practices**
+**🩵 Data &amp; APIs — `namespace Api`**
 
-<img src="https://img.shields.io/badge/Clean_Architecture-BB9AF7?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/SOLID_Principles-BB9AF7?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/SQL_Server-7DCFFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/REST_APIs-7DCFFF?style=for-the-badge&logo=fastapi&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/JWT-7DCFFF?style=for-the-badge&logo=jsonwebtokens&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Swagger-7DCFFF?style=for-the-badge&logo=swagger&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Postman-7DCFFF?style=for-the-badge&logo=postman&logoColor=16161e&labelColor=1a1b26" />
 
-**Tooling**
+**🟣 Architecture &amp; Practices — `namespace Design`**
 
-<img src="https://img.shields.io/badge/Git-9ECE6A?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/GitHub-9ECE6A?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/Visual_Studio-9ECE6A?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/VS_Code-9ECE6A?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Clean_Architecture-BB9AF7?style=for-the-badge&logo=readthedocs&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/SOLID_Principles-BB9AF7?style=for-the-badge&logo=codefactor&logoColor=16161e&labelColor=1a1b26" />
+
+**🟢 Tooling — `namespace Tools`**
+
+<img src="https://img.shields.io/badge/Git-9ECE6A?style=for-the-badge&logo=git&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/GitHub-9ECE6A?style=for-the-badge&logo=github&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Visual_Studio-9ECE6A?style=for-the-badge&logo=visualstudio&logoColor=16161e&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/VS_Code-9ECE6A?style=for-the-badge&logo=visualstudiocode&logoColor=16161e&labelColor=1a1b26" />
 
 </div>
 
@@ -153,6 +170,12 @@ Backend development training track
 
 <br/>
 
+## `// trophies.cs`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedS3id&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
 </div>
 
 <br/>
@@ -176,9 +199,9 @@ Backend development training track
 I'm open to backend .NET roles and freelance API work — based in Egypt, happy to work with teams anywhere.
 The fastest way to reach me is email or WhatsApp.
 
-<a href="mailto:ahmeds3id711@gmail.com"><img src="https://img.shields.io/badge/Email-ahmeds3id711%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" /></a>
-<a href="https://www.linkedin.com/in/ahmed-said-b006a0269"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" /></a>
-<a href="https://wa.me/201028527109"><img src="https://img.shields.io/badge/WhatsApp-Chat-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b26" /></a>
+<a href="mailto:ahmeds3id711@gmail.com"><img src="https://img.shields.io/badge/Email-ahmeds3id711%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=1a1b26" /></a>
+<a href="https://www.linkedin.com/in/ahmed-said-b006a0269"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b26" /></a>
+<a href="https://wa.me/201028527109"><img src="https://img.shields.io/badge/WhatsApp-Chat-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=1a1b26" /></a>
 
 </div>
 
