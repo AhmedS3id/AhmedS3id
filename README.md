@@ -1,362 +1,210 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Ahmed%20Said&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Backend%20.NET%20Developer&descAlignY=55&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1a1b26,100:3B82F6&height=200&section=header&text=Ahmed%20Said&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=Backend%20.NET%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+.NET+Developer;Building+Scalable+REST+APIs;Clean+Architecture+Enthusiast;ASP.NET+Core+%7C+EF+Core+%7C+SQL+Server;Always+Learning+Something+New)](https://git.io/typing-svg)
+<br/>
 
-<p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=public+class+AhmedSaid+%3A+BackendDeveloper;Building+scalable+APIs+with+ASP.NET+Core;Clean+Architecture+%7C+EF+Core+%7C+SQL+Server;Currently+learning+Docker+%26+Microservices)](https://git.io/typing-svg)
 
-<a href="https://github.com/AhmedS3id">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/ahmed-said-b006a0269">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/AhmedS3id"><img src="https://img.shields.io/badge/GitHub-AhmedS3id-3B82F6?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26" /></a>
+<a href="https://www.linkedin.com/in/ahmed-said-b006a0269"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Said-3B82F6?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b26" /></a>
+<a href="mailto:ahmeds3id711@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-3B82F6?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=1a1b26" /></a>
+<a href="https://wa.me/201028527109"><img src="https://img.shields.io/badge/WhatsApp-Message_me-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=1a1b26" /></a>
 
-<a href="mailto:ahmeds3id711@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/201028527109">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=AhmedS3id&style=for-the-badge&color=3B82F6"/>
+<img src="https://img.shields.io/badge/📍-Egypt-1a1b26?style=for-the-badge&labelColor=1a1b26&color=24283b" />
 
 </div>
 
----
+<br/>
 
-# 👋 About Me
+## `// about.cs`
 
 ```csharp
-public class AhmedSaid
+public class BackendDeveloper
 {
-    public string Role => "Backend .NET Developer";
+    private readonly string _name = "Ahmed Said";
+    private readonly string _role = "Backend .NET Developer";
+    private readonly string _location = "Egypt 🇪🇬";
 
-    public string Location => "Egypt";
+    public string Bio => """
+        I build the part of the application most users never think about —
+        the layer that decides whether things stay fast, correct, and secure
+        once real traffic hits them. My day-to-day is ASP.NET Core, C#, and
+        Entity Framework Core, with a strong bias toward Clean Architecture:
+        code that's still easy to extend six months from now, not just easy
+        to demo today.
 
-    public string Passion =>
-        "Building scalable and maintainable backend applications.";
+        I like APIs that are boring in the best way — predictable responses,
+        properly scoped JWT auth, and a data layer that doesn't fall over
+        the first time someone sends a weird request. Solving that kind of
+        real-world problem, and getting a little better at it every project,
+        is what keeps me interested in this work.
+        """;
 
-    public string[] TechStack =>
-    [
-        "ASP.NET Core",
-        "Entity Framework Core",
-        "SQL Server",
-        "REST APIs",
-        "JWT Authentication",
-        "Clean Architecture"
-    ];
+    public string[] BuildsWith => new[]
+    {
+        "ASP.NET Core", "C#", "Entity Framework Core",
+        "SQL Server", "REST APIs", "JWT Authentication", "Clean Architecture"
+    };
 
-    public string[] CurrentlyLearning =>
-    [
-        "Docker",
-        "Microservices",
-        "System Design"
-    ];
-
-    public string Goal =>
-        "Become a Professional Backend .NET Engineer.";
+    public string[] CurrentlyLearning => new[]
+    {
+        "Docker", "Microservices", "Azure", "System Design"
+    };
 }
 ```
 
----
+<br/>
 
-# 🚀 Current Focus
+## `// tech_stack.cs`
 
-- 🔹 Building Production Ready APIs
+<div align="center">
 
-- 🔹 Writing Clean & Maintainable Code
+**Core**
 
-- 🔹 Mastering Clean Architecture
+<img src="https://img.shields.io/badge/C%23-3B82F6?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/.NET-3B82F6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-3B82F6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-3B82F6?style=for-the-badge&logo=nuget&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/LINQ-3B82F6?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1b26" />
 
-- 🔹 Learning Docker & Microservices
+**Data & APIs**
 
-- 🔹 Improving System Design Skills
+<img src="https://img.shields.io/badge/SQL_Server-7AA2F7?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/REST_APIs-7AA2F7?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/JWT-7AA2F7?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Swagger-7AA2F7?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Postman-7AA2F7?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1b26" />
 
----
+**Architecture & Practices**
 
-# 💻 Tech Stack
+<img src="https://img.shields.io/badge/Clean_Architecture-BB9AF7?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/SOLID_Principles-BB9AF7?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=1a1b26" />
 
-### Languages
+**Tooling**
 
-<p>
+<img src="https://img.shields.io/badge/Git-9ECE6A?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/GitHub-9ECE6A?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/Visual_Studio-9ECE6A?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/VS_Code-9ECE6A?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1b26" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
+</div>
 
-</p>
+<br/>
 
-### Backend
+## `// featured_projects.cs`
 
-<p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+### 🗳️ Survey Basket API
+**Production-ready survey management REST API**
 
-</p>
+Handles survey creation, question types, and poll responses with role-based access, structured around Clean Architecture so domain logic stays independent of EF Core and the web layer.
 
-ASP.NET Core • Entity Framework Core • REST APIs • LINQ • JWT
+`ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT Auth` `Clean Architecture` `Swagger`
 
----
+<a href="https://github.com/AhmedS3id/Survey_Basket_API"><img src="https://img.shields.io/badge/View_Repository-1a1b26?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=1a1b26" /></a>
 
-### Database
+</td>
+<td width="50%" valign="top">
 
-<p>
+### 🩺 Sakeena
+**Backend API for a breast cancer detection platform**
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+Secure authentication, a scalable service layer, and a schema designed around data integrity — built with the discipline of a real healthcare system, not a class project.
 
-</p>
+`ASP.NET Core` `Entity Framework Core` `SQL Server` `REST APIs` `JWT Auth`
 
-SQL Server
+<a href="https://github.com/AhmedS3id/BrestCanser"><img src="https://img.shields.io/badge/View_Repository-1a1b26?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=1a1b26" /></a>
 
----
+</td>
+</tr>
+</table>
 
-### Tools
+<br/>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode"/>
-
-</p>
-
-Swagger • Git • GitHub • Postman
-
----
-
-### Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure"/>
-
-</p>
-
-
-Docker • Kubernetes • Azure
-
----
-# 🚀 Featured Projects
+## `// certification.cs`
 
 <div align="center">
 
 <table>
-
 <tr>
+<td width="70">🎓</td>
+<td>
 
-<td width="50%">
+**Information Technology Institute (ITI)**
+Backend development training track
 
-## 📊 Survey Basket API
-
-Production-ready **Survey Management REST API** built with modern .NET technologies and Clean Architecture principles.
-
-### ✨ Features
-
-- 🔐 JWT Authentication
-- 👤 Role-Based Authorization
-- 📋 Survey Management
-- 📊 Poll & Voting System
-- 🗄️ Entity Framework Core
-- 💾 SQL Server
-- 📑 Swagger Documentation
-- 🏗️ Clean Architecture
-
-### 🛠️ Tech Stack
-
-`ASP.NET Core` `EF Core` `SQL Server`
-`JWT` `REST API` `LINQ`
-
-### 🔗 Repository
-
-<a href="https://github.com/AhmedS3id/Survey_Basket_API">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://drive.google.com/file/d/18eOhlC2TAiDPHT13_eYt_yUWkboUsxSQ/view?usp=sharing"><img src="https://img.shields.io/badge/View_Certificate-1a1b26?style=for-the-badge&logo=googledrive&logoColor=3B82F6&labelColor=1a1b26" /></a>
 
 </td>
-
-<td width="50%">
-
-## 🎗️ Sakeena
-
-Backend API for a **Breast Cancer Detection Platform** focused on scalability and maintainability.
-
-### ✨ Features
-
-- 👥 User Authentication
-- 📁 Medical Data Management
-- 🔒 Secure REST APIs
-- 🗄️ SQL Server
-- ⚡ Entity Framework Core
-- 🏗️ Clean Architecture
-- 📖 Swagger API
-- 🔐 JWT Authentication
-
-### 🛠️ Tech Stack
-
-`ASP.NET Core` `SQL Server`
-`Entity Framework Core`
-`REST API`
-
-### 🔗 Repository
-
-<a href="https://github.com/AhmedS3id/BrestCanser">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
 </tr>
-
 </table>
 
 </div>
 
----
+<br/>
 
-# 🏆 Certifications
-
-<div align="center">
-
-| Certificate | Provider | Credential |
-|-------------|----------|------------|
-| **ITI Training Certificate** | Information Technology Institute | <a href="https://drive.google.com/file/d/18eOhlC2TAiDPHT13_eYt_yUWkboUsxSQ/view?usp=sharing">View Certificate</a> |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
+## `// github_stats.cs`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedS3id&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=292e42&hide_border=true&title_color=7aa2f7&icon_color=3B82F6&text_color=c0caf5&ring_color=3B82F6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&layout=compact&theme=tokyonight&bg_color=00000000&border_color=292e42&hide_border=true&title_color=7aa2f7&text_color=c0caf5&langs_count=8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedS3id&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AhmedS3id&theme=tokyonight&background=00000000&border=292e42&hide_border=true&ring=3B82F6&fire=E0AF68&currStreakLabel=7AA2F7&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&bg_color=00000000&color=7aa2f7&line=3B82F6&point=c0caf5&hide_border=true&border_color=292e42" width="95%" />
 
 </div>
 
-<br>
+<br/>
+
+## `// trophies.cs`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedS3id&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedS3id&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
----
+<br/>
 
-# 💡 Developer Philosophy
-
-> **"I believe great software is built with clean architecture, maintainable code, and continuous learning."**
-# 📈 GitHub Activity
+## `// current_focus.cs`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedS3id&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+| 🐳 Docker | 🧩 Microservices | ☁️ Azure | 🧠 System Design |
+|:---:|:---:|:---:|:---:|
+| Containerizing services for consistent, portable deployments | Breaking monoliths into independently deployable services | Getting hands-on with cloud-hosted .NET workloads | Learning to design for scale before scale becomes the problem |
 
 </div>
 
-<br>
+<br/>
+
+## `// contact.cs`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF"/>
+I'm open to backend .NET roles and freelance API work — based in Egypt, happy to work with teams anywhere.
+The fastest way to reach me is email or WhatsApp.
+
+<a href="mailto:ahmeds3id711@gmail.com"><img src="https://img.shields.io/badge/Email-ahmeds3id711%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" /></a>
+<a href="https://www.linkedin.com/in/ahmed-said-b006a0269"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" /></a>
+<a href="https://wa.me/201028527109"><img src="https://img.shields.io/badge/WhatsApp-Chat-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b26" /></a>
 
 </div>
 
----
+<br/>
 
-# 🏆 GitHub Trophies
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1a1b26,100:16161e&height=120&section=footer" alt="footer" />
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedS3id&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+<sub>Built by Ahmed Said · <code>status: 200 OK</code></sub>
 
 </div>
-
----
-
-# 📊 Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AhmedS3id&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-✔ Build Production Ready APIs
-
-✔ Master Clean Architecture
-
-✔ Learn Docker & Kubernetes
-
-✔ Learn Microservices
-
-✔ Learn Azure
-
-✔ Improve System Design Skills
-
-✔ Contribute to Open Source
-
-✔ Land a Backend .NET Position
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Technology | Progress |
-|------------|----------|
-| ASP.NET Core | ██████████ 100% |
-| Entity Framework Core | ██████████ 100% |
-| SQL Server | █████████░ 90% |
-| Clean Architecture | █████████░ 90% |
-| Docker | ██████░░░░ 60% |
-| Microservices | ████░░░░░░ 40% |
-| Azure | ███░░░░░░░ 30% |
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ahmed-said-b006a0269">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ahmeds3id711@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AhmedS3id">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/201028527109">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:3B82F6,100:06B6D4"/>
