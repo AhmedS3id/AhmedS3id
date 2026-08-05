@@ -164,12 +164,6 @@ Backend development training track
 
 <br/>
 
-## `// trophies.cs`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedS3id&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
 </div>
 
 <br/>
