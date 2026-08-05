@@ -19,43 +19,32 @@
 
 <br/>
 
-## `// about.cs`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; About Me
 
-```csharp
-public class BackendDeveloper
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+csharp
+public class AhmedSaid : BackendDeveloper
 {
-    private readonly string _name = "Ahmed Said";
-    private readonly string _role = "Backend .NET Developer";
-    private readonly string _location = "Egypt 🇪🇬";
-
-    public string Bio => """
-        I build the part of the application most users never think about —
-        the layer that decides whether things stay fast, correct, and secure
-        once real traffic hits them. My day-to-day is ASP.NET Core, C#, and
-        Entity Framework Core, with a strong bias toward Clean Architecture:
-        code that's still easy to extend six months from now, not just easy
-        to demo today.
-
-        I like APIs that are boring in the best way — predictable responses,
-        properly scoped JWT auth, and a data layer that doesn't fall over
-        the first time someone sends a weird request. Solving that kind of
-        real-world problem, and getting a little better at it every project,
-        is what keeps me interested in this work.
-        """;
-
-    public string[] BuildsWith => new[]
-    {
-        "ASP.NET Core", "C#", "Entity Framework Core",
-        "SQL Server", "REST APIs", "JWT Authentication", "Clean Architecture"
-    };
-
-    public string[] CurrentlyLearning => new[]
-    {
-        "Docker", "Microservices", "Azure", "System Design"
-    };
+    public string Name       => "Ahmed Said";
+    public string Username   => "AhmedS3id";
+    public string Role       => "Backend .NET Developer";
+    public string Location   => "Egypt 🇪🇬";
+    public string[] Focus    => [
+        "Clean Architecture",
+        "RESTful APIs",
+        "Scalable Systems"
+    ];
+    public string[] Learning => [
+        "Microservices",
+        "Docker & Kubernetes",
+        "System Design"
+    ];
+    public string Quote      => "Clean code is not written by chance.";
 }
-```
 
+
+<br clear="right"/>
 <br/>
 
 ## `// tech_stack.cs`
