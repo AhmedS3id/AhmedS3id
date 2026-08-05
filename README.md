@@ -14,19 +14,25 @@
 <a href="https://wa.me/201028527109"><img src="https://img.shields.io/badge/WhatsApp-Message_me-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=1a1b26" /></a>
 
 <img src="https://img.shields.io/badge/📍_Location-Egypt-7AA2F7?style=for-the-badge&labelColor=1a1b26" />
+<img src="https://komarev.com/ghpvc/?username=AhmedS3id&style=for-the-badge&color=7AA2F7&labelColor=1a1b26&label=PROFILE+VIEWS" />
 
 </div>
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:16161e,50:3B82F6,100:16161e&height=3" alt="divider" />
 
 <br/>
 
 ## `// about.cs`
 
 ```csharp
-public class BackendDeveloper
+public class AhmedSaid : BackendDeveloper
 {
-    private readonly string _name = "Ahmed Said";
-    private readonly string _role = "Backend .NET Developer";
-    private readonly string _location = "Egypt 🇪🇬";
+    public string Name       => "Ahmed Said";
+    public string Username   => "AhmedS3id";
+    public string Role       => "Backend .NET Developer";
+    public string Location   => "Egypt 🇪🇬";
 
     public string Bio => """
         I build the part of the application most users never think about —
@@ -43,16 +49,16 @@ public class BackendDeveloper
         is what keeps me interested in this work.
         """;
 
-    public string[] BuildsWith => new[]
-    {
+    public string[] Focus => [
         "ASP.NET Core", "C#", "Entity Framework Core",
         "SQL Server", "REST APIs", "JWT Authentication", "Clean Architecture"
-    };
+    ];
 
-    public string[] CurrentlyLearning => new[]
-    {
+    public string[] CurrentlyLearning => [
         "Docker", "Microservices", "Azure", "System Design"
-    };
+    ];
+
+    public string Quote => "Clean code is not written by chance.";
 }
 ```
 
@@ -97,6 +103,10 @@ public class BackendDeveloper
 <img src="https://img.shields.io/badge/VS_Code-9ECE6A?style=for-the-badge&logo=visualstudiocode&logoColor=16161e&labelColor=1a1b26" />
 
 </div>
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:16161e,50:3B82F6,100:16161e&height=3" alt="divider" />
 
 <br/>
 
@@ -167,6 +177,10 @@ Backend development training track
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedS3id&theme=tokyo-night&bg_color=00000000&color=7aa2f7&line=3B82F6&point=c0caf5&hide_border=true&border_color=292e42" width="95%" />
 
 </div>
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:16161e,50:3B82F6,100:16161e&height=3" alt="divider" />
 
 <br/>
 
