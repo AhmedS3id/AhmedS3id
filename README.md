@@ -7,8 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=public+class+AhmedSaid+%3A+BackendDeveloper;Building+scalable+APIs+with+ASP.NET+Core;Clean+Architecture+%7C+EF+Core+%7C+SQL+Server;Currently+learning+Docker+%26+Microservices)](https://git.io/typing-svg)
 
 <br/>
-
-<a href="https://github.com/AhmedS3id"><img src="https://img.shields.io/badge/GitHub-AhmedS3id-3B82F6?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26" /></a>
 <a href="https://www.linkedin.com/in/ahmed-said-b006a0269"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Said-3B82F6?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b26" /></a>
 <a href="mailto:ahmeds3id711@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-3B82F6?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=1a1b26" /></a>
 <a href="https://wa.me/201028527109"><img src="https://img.shields.io/badge/WhatsApp-Message_me-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=1a1b26" /></a>
