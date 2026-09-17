@@ -58,38 +58,58 @@ Git · GitHub · Visual Studio · Postman
 
 <br/>
 
-## Featured Project
+## Main Project
 
 <table width="100%">
 <tr><td>
 
-### 📚 LearnHub — Online Learning Platform
+### 🩺 Sakeena — Breast Cancer Early Detection API
 
-A backend system for managing courses, lessons, enrollments, and secure user access — built with production concerns in mind from day one, not bolted on after.
+Backend for the Sakeena mobile app: user authentication, ML-powered scan analysis, prediction history, risk assessment, real-time notifications, and an AI chatbot for health guidance.
 
 **What it does**
-Course authoring, structured Course → Section → Lesson content, student enrollments, and per-course reviews, all behind a JWT-secured, permission-based access layer.
+A patient uploads a scan image, gets an ML-driven prediction, and can track their history, statistics, and generated reports over time — alongside a separate risk-assessment flow and a chatbot for follow-up questions.
 
-**Key Features**
+**Key Modules**
 
 | | |
 |---|---|
-| 🔐 Auth & refresh-token rotation | 📖 Course, section & lesson management |
-| 🛡️ Role + permission-based access | ⚙️ Background jobs (Hangfire) |
-| 💓 Health checks (DB, jobs, mail) | 🚦 IP & user-based rate limiting |
+| 🔐 Auth (JWT + refresh) & password recovery | 🩻 ML image-scan predictions |
+| 📊 Prediction history, stats & PDF reports | 🧮 Risk assessment from health data |
+| 🔔 Real-time notifications (SignalR) | 💬 AI chatbot for health questions |
 
 **Architecture**
-Layered — Controllers → Services → EF Core, with a Result pattern instead of exceptions for expected failures, and a global handler returning RFC 7807 `ProblemDetails`.
+Layered — Controllers → Services → a dedicated `Engine` layer for core business logic → EF Core, with the ML model called through an isolated HTTP client (`Clients/MLModel`) rather than mixed into request handling.
 
 **Tech Stack**
-ASP.NET Core (.NET 10) · EF Core · SQL Server · Identity · JWT · FluentValidation · Mapster · Serilog · HybridCache
+ASP.NET Core Web API · EF Core · SQL Server · JWT (access + refresh) · SignalR · AutoMapper · Swagger/OpenAPI
 
 <div align="center">
 
-<a href="https://github.com/AhmedS3id/LearnHub"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square" /></a>
+<a href="https://github.com/AhmedS3id/BrestCanser"><img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square" /></a>
 &nbsp;
-<a href="https://learn-hub.runasp.net"><img src="https://img.shields.io/badge/Live_API-2563EB?style=flat-square" /></a>
+<a href="http://sakeena.runasp.net"><img src="https://img.shields.io/badge/Live_API-2563EB?style=flat-square" /></a>
 
+</div>
+
+</td></tr>
+</table>
+
+<br/>
+
+## Secondary Featured Project
+
+<table width="60%" align="center">
+<tr><td>
+
+### 📚 LearnHub — Online Learning Backend
+
+Course, section & lesson management with role + permission-based access, refresh-token auth, background jobs, health checks, and rate limiting.
+
+`ASP.NET Core (.NET 10)` · `EF Core` · `SQL Server` · `JWT` · `Hangfire`
+
+<div align="center">
+<a href="https://github.com/AhmedS3id/LearnHub"><img src="https://img.shields.io/badge/Repository-0F172A?style=flat-square" /></a>
 </div>
 
 </td></tr>
@@ -101,7 +121,7 @@ ASP.NET Core (.NET 10) · EF Core · SQL Server · Identity · JWT · FluentVali
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **🗳️ Survey Basket API**
 Survey management REST API — question types and poll responses with role-based access, structured around Clean Architecture.
@@ -109,16 +129,6 @@ Survey management REST API — question types and poll responses with role-based
 `ASP.NET Core` · `EF Core` · `SQL Server`
 
 [Repository →](https://github.com/AhmedS3id/Survey_Basket_API)
-
-</td>
-<td width="50%" valign="top">
-
-**🩺 Sakeena**
-Backend API for a breast cancer detection platform — secure auth, a scalable service layer, and a schema built around data integrity.
-
-`ASP.NET Core` · `EF Core` · `SQL Server`
-
-[Repository →](https://github.com/AhmedS3id/BrestCanser)
 
 </td>
 </tr>
