@@ -149,7 +149,7 @@ File upload & download REST API — enforces file size limits, safe/randomized f
 
 `ASP.NET Core` · `EF Core` · `SQL Server` · `FluentValidation`
 
-[Repository →](https://github.com/AhmedS3id/FileManagerApi)
+[Repository →](https://github.com/AhmedS3id/FileManager_Api)
 
 </td>
 </tr>
