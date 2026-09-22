@@ -141,6 +141,18 @@ Survey management REST API — question types and poll responses with role-based
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top">
+
+**🗂️ FileManagerApi**
+File upload & download REST API — enforces file size limits, safe/randomized file naming, path-traversal protection, and file-signature (magic-number) validation for both generic files and images, with an async streaming download flow instead of in-memory buffering.
+
+`ASP.NET Core` · `EF Core` · `SQL Server` · `FluentValidation`
+
+[Repository →](https://github.com/AhmedS3id/FileManagerApi)
+
+</td>
+</tr>
 </table>
 
 <br/>
